@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[678],{6558:function(e,t,l){l.r(t);var n=l(7294),s=l(1082);t.default=function(){return n.createElement("div",null,n.createElement(s.rU,{to:"/hello"},"Hello post!"))}}}]);
